@@ -21,7 +21,8 @@ downloading the videos use the **_DL_vids.py_**
 
 _**PH_scraper.py**_
 Will ask you for the playlist ID.
-the playlist ID will be located at the end of the URL of the playlist. See example
+the playlist ID will be located at the end of the URL of the playlist.  
+See Example.  
 https://www.pornhub.com/playlist/**92450201** **<---** **Playlist ID**
 This will generate one information file named **_ply_list_info.txt_** and one more file
 named **_ph_list_file.txt_** which will contain lists of _video page links_ and _video titles_.
